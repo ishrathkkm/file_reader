@@ -1,0 +1,12 @@
+table{
+    margin-top:15px;
+    width:75%;
+    border-collapse: collapse;
+}
+td{
+    padding:5px;
+    border:1px solid #aaa
+}
+input{
+    padding:6px;
+}
